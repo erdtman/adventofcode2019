@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/erdtman/adventofcode2019#readme",
   "dependencies": {
+    "distance-to-line-segment": "^0.2.0",
     "line-intersection": "^1.0.9"
   }
 }
